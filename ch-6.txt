@@ -1,0 +1,42 @@
+VI.1
+  O(b)
+VI.2
+  O(b)
+VI.3
+  O(1)
+VI.4
+  O(a/b)
+VI.5
+  O(log(n))
+VI.6
+  O(sqrt(n))
+VI.7
+  The longest path of the unbalanced tree.
+  The worst case would a degenerated tree looking like a list:
+  O(n) ?
+VI.8
+  Well if the tree has no specific structure, we have to look at all the nodes.
+  Thus O(n)
+VI.9
+  1 + 2 + 3 + ... + n = n*(n+1)/2
+  O(n^2)
+VI.10
+  O( log_10(n) )
+VI.11
+  isInOrder(s) -> O( length(s) )
+  println(s) -> O( length(s) )
+
+  remaining = 1   ;  26 * 1
+  remaining = 2   ;  26 * 26 * 2
+  remaining = 3   ;  26 * 26 * 26 * 3
+
+  O(26^k * k)
+
+VI.12
+  mergesort(b) -> O( b*log(b) )
+
+  a * log(b) 
+
+  O(b*log(b) + a*log(b) )
+
+
