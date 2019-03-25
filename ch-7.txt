@@ -1,0 +1,39 @@
+Listen
+  - to every element in the question. Some hints lie within the question
+  - If your brute force does not use certain element of the question, it might
+    be a road to optimization
+- Draw, talk aloud, etc.
+Example
+Brute Force
+Optimize
+  - Look for any unused information.
+  - Use a fresh example.
+    - Look at the corner case.
+    - Look at the base case.
+    - Look at a complex enough.
+  - If you find an incorrect solution, can you work from there to correct it?
+  - What to optimize : space and/or time
+Walkthrough
+Implement
+Test
+
+Try
+Opt 1.
+    BUD
+    Bottleneck
+    - Optimize where needed in the O(...)
+    Unnecessary Work
+    Duplicated Work
+Opt 2.
+    Do it Yourself : Solve the problem manually and self-reflect on what your
+    brain did exactly
+Opt 3.
+    Simplify and Generalize
+Opt 4.
+    Bottom-up approach : Base Case and build
+Opt 5.
+    Data Structure Brainstorm (try every structure possible for the problem at hand)
+Opt 6.
+    Best Conceivable Runtime as a lower bound to O()
+
+
